@@ -1,6 +1,6 @@
 import { Logo } from "./Logo";
 
-export const BOOKING_LINK = "#contact";
+export const BOOKING_LINK = "https://cal.com/uday-kiran-bvwrur/20-mins-intro-call";
 
 export function Navbar() {
   return (

@@ -2,5 +2,7 @@
   "name": "StaffRelay",
   "description": "The Missed Call Text Back Fix for IT staffing and recruiting agencies in the United States.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
